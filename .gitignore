@@ -1,0 +1,23 @@
+# General
+.DS_Store
+**/.env
+
+# IDE
+.idea/*
+*.iml
+.vscode/*
+
+# compiled output
+**/dist
+**/tmp
+
+# dependencies
+**/node_modules
+**/bower_components
+
+# misc
+**/*.log
+.nvmrc
+.history
+**/postmigrate.js
+
